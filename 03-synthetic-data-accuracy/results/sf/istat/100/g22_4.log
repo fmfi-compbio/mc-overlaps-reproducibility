@@ -1,0 +1,10 @@
+
+ISTAT v1.0.0 © The Regents of the University of California. All Rights Reserved.
+
+scale is 100
+Number of query intervals (n) is 50
+Number of reference intervals (m) is 2500
+Overlap is 10
+eta is 0.01
+DP p-value is 0.836958
+PB p-value is 0.796889
