@@ -16,7 +16,7 @@ All genome coordinates are stored as 0-based half-open intervals (i.e. positions
 
 ## 01 - 4 real datasets from Sarmashghi and Bafna (2019) (`01-4-real-datasets/`)
 
-The data are prepared and provided by Sarmashghi and Bafna (2019)[^1] (published with their consent [CONSENT PENDING]).
+The data are prepared and provided by Sarmashghi and Bafna (2019)[^1] (published with their consent).
 
 ### Labels of experiments:
 
