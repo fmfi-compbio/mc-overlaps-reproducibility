@@ -1,0 +1,5 @@
+label	reference	query	chr_sizes
+orig1	data/tcga_chr.txt	data/hirt_chr.txt	data/hg19_chrom_sizes.txt
+orig2	data/ncRNA_chr.txt	data/Gains_inc_chr.txt	data/hg19_chrom_sizes.txt
+orig3	data/promoter_2.5k_chr_no_chrM.txt	data/H3K4me3_chr.txt	data/hg19_chrom_sizes.txt
+orig4	data/state9_chr.txt	data/promoter_2k_chr_no_chrM.txt	data/hg19_chrom_sizes.txt
